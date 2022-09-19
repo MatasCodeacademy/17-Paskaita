@@ -98,4 +98,5 @@ class Alien extends Enemy {
 }
 
 const alien1 = new Alien("Ali", "I'm Ali the alien!", 10, 50);
-alien1.attack(); // output: "Now I'm doing a different thing, HA!"
+alien1.attack();
+// output: "Now I'm doing a different thing, HA!"
